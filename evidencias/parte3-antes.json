@@ -1,0 +1,40 @@
+[
+    {
+      "Nombre": "Emi Takahashi",
+      "Edad": 27,
+      "Patrimonio": 1800000,
+      "Personajes": [
+        {
+          "Nombre": "Anna-senpai",
+          "Produccion": "Mirai",
+          "TipoProduccion": "Profesional",
+          "Rol": "Principal",
+          "Apariciones": 18,
+          "Generos": [
+            "Accion",
+            "Aventura"
+          ]
+        }
+      ]
+    },
+
+    {
+        "Nombre":"Akira Nakamura",
+        "Edad": 41,
+        "Patrimonio": 2500000,
+        "Personajes": [
+            {
+            "Nombre": "Kai",
+            "Produccion": "Cyber Warriors",
+            "TipoProduccion": "Profesional",
+            "Rol": "Principal",
+            "Apariciones": 25,
+            "Generos": [
+                "Accion",
+                "Ciencia ficcion"
+            ]
+            }
+        ]
+    }
+
+]

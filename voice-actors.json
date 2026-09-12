@@ -1,0 +1,437 @@
+[
+    {
+        "Nombre": "Akira Nakamura",
+        "Nacionalidad": "Japon",
+        "Fecha de nacimiento": {
+            "$date": "1985-03-12T00:00:00Z"
+        },
+        "Edad": 41,
+        "Patrimonio": 2500000,
+        "Idiomas": ["Japones", "Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "Kai",
+                "Produccion": "Cyber Warriors",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 25,
+                "Generos": ["Accion", "Ciencia ficcion"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Emi Takahashi",
+        "Nacionalidad": "Japon",
+        "Fecha de nacimiento": {
+            "$date": "1999-07-21T00:00:00Z"
+        },
+        "Edad": 27,
+        "Patrimonio": 1800000,
+        "Idiomas": ["Japones", "Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "Anna-senpai",
+                "Produccion": "Mirai",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 18,
+                "Generos": ["Accion", "Aventura"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Kane Blubird",
+        "Nacionalidad": "Estados Unidos",
+        "Fecha de nacimiento": {
+            "$date": "1984-10-20T00:00:00Z"
+        },
+        "Edad": 41,
+        "Patrimonio": 18500000,
+        "Idiomas": ["Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "Nick Jane",
+                "Produccion": "Air Combo",
+                "TipoProduccion": "Profesional",
+                "Rol": "Secundario",
+                "Apariciones": 19,
+                "Generos": ["Accion"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Jacqueline Contreras",
+        "Nacionalidad": "Mexico",
+        "Fecha de nacimiento": {
+            "$date": "1999-03-17T00:00:00Z"
+        },
+        "Edad": 27,
+        "Patrimonio": 1000000,
+        "Idiomas": ["Espanol", "Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "Maya Flores",
+                "Produccion": "Court Mysteries",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 30,
+                "Generos": ["Drama", "Thriller", "Policial"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Haruto Yamamoto",
+        "Nacionalidad": "Japon",
+        "Fecha de nacimiento": {
+            "$date": "1968-01-08T00:00:00Z"
+        },
+        "Edad": 58,
+        "Patrimonio": 8700000,
+        "Idiomas": ["Japones", "Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "General Ryu",
+                "Produccion": "Empire of Ash",
+                "TipoProduccion": "Profesional",
+                "Rol": "Secundario",
+                "Apariciones": 42,
+                "Generos": ["Accion", "Drama"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Sofia Herrera",
+        "Nacionalidad": "Chile",
+        "Fecha de nacimiento": {
+            "$date": "1963-05-14T00:00:00Z"
+        },
+        "Edad": 63,
+        "Patrimonio": 4300000,
+        "Idiomas": ["Espanol"],
+        "Personajes": [
+            {
+                "Nombre": "Elena Varela",
+                "Produccion": "Sombras del Sur",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 36,
+                "Generos": ["Drama", "Misterio"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Thomas Reed",
+        "Nacionalidad": "Canada",
+        "Fecha de nacimiento": {
+            "$date": "1972-06-09T00:00:00Z"
+        },
+        "Edad": 54,
+        "Patrimonio": 9200000,
+        "Idiomas": ["Ingles", "Frances"],
+        "Personajes": [
+            {
+                "Nombre": "Commander Blake",
+                "Produccion": "Frozen Orbit",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 51,
+                "Generos": ["Ciencia ficcion", "Accion"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Lucia Fernandez",
+        "Nacionalidad": "Argentina",
+        "Fecha de nacimiento": {
+            "$date": "1955-12-02T00:00:00Z"
+        },
+        "Edad": 70,
+        "Patrimonio": 6100000,
+        "Idiomas": ["Espanol", "Italiano"],
+        "Personajes": [
+            {
+                "Nombre": "Isabel Monte",
+                "Produccion": "Tiempo Perdido",
+                "TipoProduccion": "Profesional",
+                "Rol": "Secundario",
+                "Apariciones": 28,
+                "Generos": ["Drama", "Romance"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Ren Sakamoto",
+        "Nacionalidad": "Japon",
+        "Fecha de nacimiento": {
+            "$date": "2002-11-28T00:00:00Z"
+        },
+        "Edad": 23,
+        "Patrimonio": 750000,
+        "Idiomas": ["Japones", "Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "Zero",
+                "Produccion": "Neon Velocity",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 14,
+                "Generos": ["Accion", "Ciencia ficcion"]
+            },
+            {
+                "Nombre": "Hiro",
+                "Produccion": "Quiet Seasons",
+                "TipoProduccion": "Independiente",
+                "Rol": "Secundario",
+                "Apariciones": 7,
+                "Generos": ["Drama"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Camila Rojas",
+        "Nacionalidad": "Chile",
+        "Fecha de nacimiento": {
+            "$date": "2001-04-10T00:00:00Z"
+        },
+        "Edad": 25,
+        "Patrimonio": 950000,
+        "Idiomas": ["Espanol", "Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "Nova",
+                "Produccion": "Stellar Knights",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 21,
+                "Generos": ["Accion", "Aventura"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Mateo Silva",
+        "Nacionalidad": "Uruguay",
+        "Fecha de nacimiento": {
+            "$date": "1997-09-05T00:00:00Z"
+        },
+        "Edad": 29,
+        "Patrimonio": 1250000,
+        "Idiomas": ["Espanol", "Portugues"],
+        "Personajes": [
+            {
+                "Nombre": "Rocco",
+                "Produccion": "Street Legends",
+                "TipoProduccion": "Independiente",
+                "Rol": "Principal",
+                "Apariciones": 16,
+                "Generos": ["Accion", "Comedia"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Elena Garcia",
+        "Nacionalidad": "Espana",
+        "Fecha de nacimiento": {
+            "$date": "1991-02-19T00:00:00Z"
+        },
+        "Edad": 35,
+        "Patrimonio": 3700000,
+        "Idiomas": ["Espanol", "Ingles", "Frances"],
+        "Personajes": [
+            {
+                "Nombre": "Clara",
+                "Produccion": "Crystal Harbor",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 33,
+                "Generos": ["Fantasia", "Aventura"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Daniel Walker",
+        "Nacionalidad": "Estados Unidos",
+        "Fecha de nacimiento": {
+            "$date": "1987-08-03T00:00:00Z"
+        },
+        "Edad": 39,
+        "Patrimonio": 12100000,
+        "Idiomas": ["Ingles", "Espanol"],
+        "Personajes": [
+            {
+                "Nombre": "Hunter Cole",
+                "Produccion": "Dark Frontier",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 46,
+                "Generos": ["Accion", "Western"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Marina Costa",
+        "Nacionalidad": "Brasil",
+        "Fecha de nacimiento": {
+            "$date": "1978-06-25T00:00:00Z"
+        },
+        "Edad": 48,
+        "Patrimonio": 5100000,
+        "Idiomas": ["Portugues", "Espanol"],
+        "Personajes": [
+            {
+                "Nombre": "Luna Rocha",
+                "Produccion": "Amazonia Azul",
+                "TipoProduccion": "Profesional",
+                "Rol": "Secundario",
+                "Apariciones": 24,
+                "Generos": ["Aventura", "Drama"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Kenji Mori",
+        "Nacionalidad": "Japon",
+        "Fecha de nacimiento": {
+            "$date": "1974-03-30T00:00:00Z"
+        },
+        "Edad": 52,
+        "Patrimonio": 7400000,
+        "Idiomas": ["Japones", "Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "Lord Akio",
+                "Produccion": "Blade Dynasty",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 39,
+                "Generos": ["Accion", "Fantasia"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Robert Miller",
+        "Nacionalidad": "Estados Unidos",
+        "Fecha de nacimiento": {
+            "$date": "1960-04-01T00:00:00Z"
+        },
+        "Edad": 66,
+        "Patrimonio": 22000000,
+        "Idiomas": ["Ingles", "Aleman"],
+        "Personajes": [
+            {
+                "Nombre": "Dr. Morton",
+                "Produccion": "Project Helix",
+                "TipoProduccion": "Profesional",
+                "Rol": "Secundario",
+                "Apariciones": 31,
+                "Generos": ["Ciencia ficcion", "Thriller"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Valentina Perez",
+        "Nacionalidad": "Chile",
+        "Fecha de nacimiento": {
+            "$date": "1995-12-22T00:00:00Z"
+        },
+        "Edad": 30,
+        "Patrimonio": 2100000,
+        "Idiomas": ["Espanol", "Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "Aria",
+                "Produccion": "Kingdom Beyond",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 20,
+                "Generos": ["Fantasia", "Aventura"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Yuki Hayashi",
+        "Nacionalidad": "Japon",
+        "Fecha de nacimiento": {
+            "$date": "1998-05-06T00:00:00Z"
+        },
+        "Edad": 28,
+        "Patrimonio": 1450000,
+        "Idiomas": ["Japones", "Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "Mika",
+                "Produccion": "Sky Breakers",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 22,
+                "Generos": ["Accion", "Aventura"]
+            },
+            {
+                "Nombre": "Nao",
+                "Produccion": "Blue Memories",
+                "TipoProduccion": "Independiente",
+                "Rol": "Extra",
+                "Apariciones": 4,
+                "Generos": ["Drama", "Romance"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Arthur Bennett",
+        "Nacionalidad": "Reino Unido",
+        "Fecha de nacimiento": {
+            "$date": "1981-01-16T00:00:00Z"
+        },
+        "Edad": 45,
+        "Patrimonio": 6800000,
+        "Idiomas": ["Ingles", "Frances"],
+        "Personajes": [
+            {
+                "Nombre": "Edgar Finch",
+                "Produccion": "Clocktower Secrets",
+                "TipoProduccion": "Profesional",
+                "Rol": "Secundario",
+                "Apariciones": 17,
+                "Generos": ["Misterio", "Thriller"]
+            }
+        ]
+    },
+
+    {
+        "Nombre": "Patricia Morales",
+        "Nacionalidad": "Mexico",
+        "Fecha de nacimiento": {
+            "$date": "1969-08-11T00:00:00Z"
+        },
+        "Edad": 57,
+        "Patrimonio": 4600000,
+        "Idiomas": ["Espanol", "Ingles"],
+        "Personajes": [
+            {
+                "Nombre": "Teresa Luna",
+                "Produccion": "The Last Station",
+                "TipoProduccion": "Profesional",
+                "Rol": "Principal",
+                "Apariciones": 44,
+                "Generos": ["Drama", "Suspenso"]
+            }
+        ]
+    }
+]

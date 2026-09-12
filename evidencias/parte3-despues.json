@@ -1,0 +1,61 @@
+[
+    {
+      "Nombre": "Emi Takahashi",
+      "Edad": 27,
+      "Patrimonio": 2376000,
+      "Personajes": [
+        {
+          "Nombre": "Anna-senpai",
+          "Produccion": "Mirai",
+          "TipoProduccion": "Profesional",
+          "Rol": "Principal",
+          "Apariciones": 18,
+          "Generos": [
+            "Accion",
+            "Aventura"
+          ]
+        },
+        {
+          "Nombre": "Speed Racer",
+          "Produccion": "Sansa Ball Race",
+          "TipoProduccion": "Profesional",
+          "Rol": "Principal",
+          "Apariciones": 3,
+          "Generos": [
+            "Accion",
+            "Deportes"
+          ]
+        }
+      ]
+    },
+
+    {
+      "Nombre": "Akira Nakamura",
+      "Edad": 41,
+      "Patrimonio": 3300000,
+      "Personajes": [
+        {
+          "Nombre": "Kai",
+          "Produccion": "Cyber Warriors",
+          "TipoProduccion": "Profesional",
+          "Rol": "Principal",
+          "Apariciones": 25,
+          "Generos": [
+            "Accion",
+            "Ciencia ficcion"
+          ]
+        },
+        {
+          "Nombre": "Speed Racer",
+          "Produccion": "Sansa Ball Race",
+          "TipoProduccion": "Profesional",
+          "Rol": "Secundario",
+          "Apariciones": 1,
+          "Generos": [
+            "Accion",
+            "Deportes"
+          ]
+        }
+      ]
+    }
+]
